@@ -1,5 +1,7 @@
 # Lab9Web
 # Praktikum 9 
+# berikut adalah link untuk praktikum 10
+https://github.com/fahmi-creator/Lab10Web
 ```
 Fahmi Abdul Muthi
 311910463
